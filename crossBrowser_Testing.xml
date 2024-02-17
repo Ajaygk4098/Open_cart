@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite" thread-count="5" parallel="tests">    <!-- this will run the tests in both the browsers at a time. If we parallel tag and add the thread-count at the suite level-->
+  
+  <test thread-count="5" name="Chrometest">
+    
+   	<parameter name="os" value="windows"/>
+   	<parameter name="browser" value="chrome"/> 
+    <classes>
+      <class name="testCases.TC_001_Account_Registration_Test"/>
+      <class name="testCases.TC_002_Login_Test"/>
+    </classes>
+  </test> <!-- Test -->
+  
+  <test thread-count="5" name="Edgetest">
+    
+   	<parameter name="os" value="windows"/>
+   	<parameter name="browser" value="edge"/> 
+    <classes>
+      <class name="testCases.TC_001_Account_Registration_Test"/>
+      <class name="testCases.TC_002_Login_Test"/>       	
+    </classes>
+  </test> <!-- Test -->
+  
+</suite> <!-- Suite -->

@@ -1,0 +1,43 @@
+18:36:18.372 [main] INFO  testCases.TC_003_LoginDDT - --Entering Password which is mentioned in the config.properties file--
+18:36:18.482 [main] INFO  testCases.TC_003_LoginDDT - --Clicking on the login button--
+18:36:19.754 [main] INFO  testCases.TC_003_LoginDDT - --Login successfull done--
+18:36:20.991 [main] INFO  testCases.TC_003_LoginDDT - *************Completed data driven test for multiple data inputs******************************
+18:36:21.003 [main] INFO  testCases.TC_003_LoginDDT - ************* Starting Login test case with different data******************************
+18:36:21.004 [main] DEBUG testCases.TC_003_LoginDDT - ************ Application logs*****************************************************
+18:36:21.020 [main] INFO  testCases.TC_003_LoginDDT - --Clicking in the My account link in the home page
+18:36:21.091 [main] INFO  testCases.TC_003_LoginDDT - --Clicking on the Login_link
+18:36:22.392 [main] INFO  testCases.TC_003_LoginDDT - --Entering Email ID which is mentioned in the config.properties file--
+18:36:22.529 [main] INFO  testCases.TC_003_LoginDDT - --Entering Password which is mentioned in the config.properties file--
+18:36:22.628 [main] INFO  testCases.TC_003_LoginDDT - --Clicking on the login button--
+18:36:42.766 [main] DEBUG testCases.TC_003_LoginDDT - -- Error occured while loging into the application
+18:36:42.766 [main] INFO  testCases.TC_003_LoginDDT - *************Completed data driven test for multiple data inputs******************************
+19:12:40.287 [main] INFO  testCases.TC_002_Login_Test - ************* Starting Login test case******************************
+19:12:40.292 [main] DEBUG testCases.TC_002_Login_Test - ************ Application logs*****************************************************
+19:12:40.339 [main] INFO  testCases.TC_002_Login_Test - --Clicking in the My account link in the home page
+19:12:40.491 [main] INFO  testCases.TC_002_Login_Test - Clicking on the Login_link
+19:12:43.535 [main] INFO  testCases.TC_002_Login_Test - --Entering Email ID which is mentioned in the config.properties file--
+19:12:43.728 [main] INFO  testCases.TC_002_Login_Test - --Entering Password which is mentioned in the config.properties file--
+19:12:43.843 [main] INFO  testCases.TC_002_Login_Test - --Clicking on the login button--
+19:12:46.130 [main] INFO  testCases.TC_002_Login_Test - --Login successfull done--
+19:12:47.762 [main] INFO  testCases.TC_002_Login_Test - *************Login test case completed******************************
+19:13:55.322 [main] INFO  testCases.TC_001_Account_Registration_Test - ************* Starting Account registration test case******************************
+19:13:55.328 [main] DEBUG testCases.TC_001_Account_Registration_Test - ************ Application logs*****************************************************
+19:13:55.359 [main] INFO  testCases.TC_001_Account_Registration_Test - --Clicking on Account My Account option--
+19:13:55.526 [main] INFO  testCases.TC_001_Account_Registration_Test - --Clicking on Register option--
+19:14:10.483 [main] INFO  testCases.TC_001_Account_Registration_Test - --Entering user First name--
+19:14:10.623 [main] INFO  testCases.TC_001_Account_Registration_Test - --Entering user Second name--
+19:14:10.747 [main] INFO  testCases.TC_001_Account_Registration_Test - --Entering user Email--
+19:14:10.885 [main] INFO  testCases.TC_001_Account_Registration_Test - --Generating password and Entering password--
+19:14:10.987 [main] INFO  testCases.TC_001_Account_Registration_Test - --Setting the Agreement terms toggle to YES--
+19:14:11.408 [main] INFO  testCases.TC_001_Account_Registration_Test - --Clicking continue button after entering the user details--
+19:14:11.475 [main] INFO  testCases.TC_001_Account_Registration_Test - --Verifying the confirmation message after account is created--
+19:14:16.438 [main] INFO  testCases.TC_001_Account_Registration_Test - *************Account registration test case completed******************************
+19:15:02.661 [main] INFO  testCases.TC_001_Account_Registration_Test - ************* Starting Account registration test case******************************
+19:15:02.667 [main] DEBUG testCases.TC_001_Account_Registration_Test - ************ Application logs*****************************************************
+19:15:02.693 [main] INFO  testCases.TC_001_Account_Registration_Test - --Clicking on Account My Account option--
+19:15:02.848 [main] INFO  testCases.TC_001_Account_Registration_Test - --Clicking on Register option--
+19:15:05.656 [main] INFO  testCases.TC_001_Account_Registration_Test - --Entering user First name--
+19:15:05.798 [main] INFO  testCases.TC_001_Account_Registration_Test - --Entering user Second name--
+19:15:05.932 [main] INFO  testCases.TC_001_Account_Registration_Test - --Entering user Email--
+19:15:06.059 [main] INFO  testCases.TC_001_Account_Registration_Test - --Generating password and Entering password--
+19:15:06.173 [main] INFO  testCases.TC_001_Account_Registration_Test - --Setting the Agreement terms toggle to YES--
