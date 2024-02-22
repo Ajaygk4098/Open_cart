@@ -1,0 +1,39 @@
+16:02:35.094 [main] INFO  testCases.TC_005_Search_Product_Invalid - Clicking on the Login_link
+16:02:41.525 [main] INFO  testCases.TC_005_Search_Product_Invalid - Entering the item name in the search box
+16:02:41.634 [main] INFO  testCases.TC_005_Search_Product_Invalid - searching for a product and checking if proper message is shown to the user
+16:03:55.406 [main] INFO  testCases.TC_005_Search_Product_Invalid - ************* Starting search for a non existing product test case******************************
+16:03:55.759 [main] INFO  testCases.TC_005_Search_Product_Invalid - --Clicking on My Account link to login to the application
+16:03:55.953 [main] INFO  testCases.TC_005_Search_Product_Invalid - Clicking on the Login_link
+16:04:01.150 [main] INFO  testCases.TC_005_Search_Product_Invalid - Entering the item name in the search box
+16:04:01.241 [main] INFO  testCases.TC_005_Search_Product_Invalid - searching for a product and checking if proper message is shown to the user
+16:06:10.253 [main] INFO  testCases.TC_005_Search_Product_Invalid - ************* Starting search for a non existing product test case******************************
+16:06:10.656 [main] INFO  testCases.TC_005_Search_Product_Invalid - --Clicking on My Account link to login to the application
+16:06:10.805 [main] INFO  testCases.TC_005_Search_Product_Invalid - Clicking on the Login_link
+16:06:23.201 [main] INFO  testCases.TC_005_Search_Product_Invalid - Entering the item name in the search box
+16:06:23.305 [main] INFO  testCases.TC_005_Search_Product_Invalid - searching for a product and checking if proper message is shown to the user
+16:06:37.953 [main] INFO  testCases.TC_005_Search_Product_Invalid - *************Search product test case is completed******************************
+16:08:14.820 [main] INFO  testCases.TC_005_Search_Product_Invalid - ************* Starting search for a non existing product test case******************************
+16:08:14.870 [main] INFO  testCases.TC_005_Search_Product_Invalid - --Clicking on My Account link to login to the application
+16:08:15.000 [main] INFO  testCases.TC_005_Search_Product_Invalid - Clicking on the Login_link
+16:08:20.041 [main] INFO  testCases.TC_005_Search_Product_Invalid - Entering the item name in the search box
+16:08:20.143 [main] INFO  testCases.TC_005_Search_Product_Invalid - searching for a product and checking if proper message is shown to the user
+16:08:23.911 [main] INFO  testCases.TC_005_Search_Product_Invalid - *************Search product test case is completed******************************
+16:08:57.084 [main] INFO  testCases.TC_005_Search_Product_Invalid - ************* Starting search for a non existing product test case******************************
+16:08:57.127 [main] INFO  testCases.TC_005_Search_Product_Invalid - --Clicking on My Account link to login to the application
+16:08:57.232 [main] INFO  testCases.TC_005_Search_Product_Invalid - Clicking on the Login_link
+16:09:01.991 [main] INFO  testCases.TC_005_Search_Product_Invalid - Entering the item name in the search box
+16:09:02.093 [main] INFO  testCases.TC_005_Search_Product_Invalid - searching for a product and checking if proper message is shown to the user
+16:14:12.457 [main] INFO  testCases.TC_005_Search_Product_Invalid - ************* Starting search for a non existing product test case******************************
+16:14:12.492 [main] INFO  testCases.TC_005_Search_Product_Invalid - --Clicking on My Account link to login to the application
+16:14:12.625 [main] INFO  testCases.TC_005_Search_Product_Invalid - Clicking on the Login_link
+16:14:16.702 [main] INFO  testCases.TC_005_Search_Product_Invalid - Entering the item name in the search box
+16:14:16.815 [main] INFO  testCases.TC_005_Search_Product_Invalid - searching for a product and checking if proper message is shown to the user
+16:16:48.723 [main] INFO  testCases.TC_005_Search_Product_Invalid - ************* Starting search for a non existing product test case******************************
+16:16:49.011 [main] INFO  testCases.TC_005_Search_Product_Invalid - --Clicking on My Account link to login to the application
+16:16:49.284 [main] INFO  testCases.TC_005_Search_Product_Invalid - Clicking on the Login_link
+16:16:54.051 [main] INFO  testCases.TC_005_Search_Product_Invalid - Entering the item name in the search box
+16:16:54.168 [main] INFO  testCases.TC_005_Search_Product_Invalid - searching for a product and checking if proper message is shown to the user
+16:19:37.454 [main] INFO  testCases.TC_005_Search_Product_Invalid - ************* Starting search for a non existing product test case******************************
+16:19:37.487 [main] INFO  testCases.TC_005_Search_Product_Invalid - --Clicking on My Account link to login to the application
+16:19:37.792 [main] INFO  testCases.TC_005_Search_Product_Invalid - Clicking on the Login_link
+16:19:45.141 [main] INFO  testCases.TC_005_Search_Product_Invalid - Entering the item name in the search box

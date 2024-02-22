@@ -48,7 +48,7 @@ public class TC_002_Login_Test extends BaseClass{
 				log.error("--Login un-successuful--");
 				Assert.fail();
 			}	
-			AP.Log_out();
+			//AP.Log_out();
 		}catch (Exception e) {
 			log.debug("-- Error occured while loging into the application");
 			Assert.fail();

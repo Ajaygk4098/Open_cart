@@ -1,0 +1,40 @@
+16:19:45.247 [main] INFO  testCases.TC_005_Search_Product_Invalid - searching for a product and checking if proper message is shown to the user
+16:19:50.275 [main] INFO  testCases.TC_005_Search_Product_Invalid - --Item we are searching for is found--
+16:19:50.275 [main] INFO  testCases.TC_005_Search_Product_Invalid - *************Search product test case is completed******************************
+16:20:37.172 [main] INFO  testCases.TC_005_Search_Product_Invalid - ************* Starting search for a non existing product test case******************************
+16:20:37.213 [main] INFO  testCases.TC_005_Search_Product_Invalid - --Clicking on My Account link to login to the application
+16:20:37.340 [main] INFO  testCases.TC_005_Search_Product_Invalid - Clicking on the Login_link
+16:20:43.683 [main] INFO  testCases.TC_005_Search_Product_Invalid - Entering the item name in the search box
+16:20:43.796 [main] INFO  testCases.TC_005_Search_Product_Invalid - searching for a product and checking if proper message is shown to the user
+16:20:58.045 [main] INFO  testCases.TC_005_Search_Product_Invalid - --Item we are searching for is not found--
+16:20:58.045 [main] INFO  testCases.TC_005_Search_Product_Invalid - *************Search product test case is completed******************************
+16:28:15.209 [main] INFO  testCases.TC_005_Search_Product_Invalid - ************* Starting search for a non existing product test case******************************
+16:28:15.868 [main] INFO  testCases.TC_005_Search_Product_Invalid - --Clicking on My Account link to login to the application
+16:28:17.409 [main] INFO  testCases.TC_005_Search_Product_Invalid - Clicking on the Login_link
+16:28:28.907 [main] INFO  testCases.TC_005_Search_Product_Invalid - Entering the item name in the search box
+16:28:29.059 [main] INFO  testCases.TC_005_Search_Product_Invalid - searching for a product and checking if proper message is shown to the user
+16:28:45.775 [main] INFO  testCases.TC_005_Search_Product_Invalid - --Item we are searching for is not found--
+16:28:45.775 [main] INFO  testCases.TC_005_Search_Product_Invalid - *************Search product test case is completed******************************
+17:07:27.919 [main] INFO  testCases.TC_005_Search_Product_Invalid - ************* Starting search for a non existing product test case******************************
+17:07:29.176 [main] INFO  testCases.TC_005_Search_Product_Invalid - --Clicking on My Account link to login to the application
+17:07:29.872 [main] INFO  testCases.TC_005_Search_Product_Invalid - Clicking on the Login_link
+17:07:39.394 [main] INFO  testCases.TC_005_Search_Product_Invalid - Entering the item name in the search box
+17:07:39.507 [main] INFO  testCases.TC_005_Search_Product_Invalid - searching for a product and checking if proper message is shown to the user
+17:07:55.082 [main] INFO  testCases.TC_005_Search_Product_Invalid - --Item we are searching for is not found--
+17:07:55.082 [main] INFO  testCases.TC_005_Search_Product_Invalid - *************Search product test case is completed******************************
+14:03:12.320 [main] INFO  testCases.TC_001_Account_Registration_Test - ************* Starting Account registration test case******************************
+14:03:12.465 [main] DEBUG testCases.TC_001_Account_Registration_Test - ************ Application logs*****************************************************
+14:03:12.680 [main] INFO  testCases.TC_001_Account_Registration_Test - --Clicking on Account My Account option--
+14:03:14.324 [main] INFO  testCases.TC_001_Account_Registration_Test - --Clicking on Register option--
+14:03:18.977 [main] INFO  testCases.TC_001_Account_Registration_Test - --Entering user First name--
+14:03:20.420 [main] INFO  testCases.TC_001_Account_Registration_Test - --Entering user Second name--
+14:03:20.523 [main] INFO  testCases.TC_001_Account_Registration_Test - --Entering user Email--
+14:03:20.641 [main] INFO  testCases.TC_001_Account_Registration_Test - --Generating password and Entering password--
+14:03:20.799 [main] INFO  testCases.TC_001_Account_Registration_Test - --Setting the Agreement terms toggle to YES--
+14:03:21.485 [main] INFO  testCases.TC_001_Account_Registration_Test - --Clicking continue button after entering the user details--
+14:03:21.669 [main] INFO  testCases.TC_001_Account_Registration_Test - --Verifying the confirmation message after account is created--
+14:03:26.565 [main] INFO  testCases.TC_001_Account_Registration_Test - *************Account registration test case completed******************************
+14:03:57.909 [main] INFO  testCases.TC_002_Login_Test - ************* Starting Login test case******************************
+14:03:57.909 [main] DEBUG testCases.TC_002_Login_Test - ************ Application logs*****************************************************
+14:03:58.154 [main] INFO  testCases.TC_002_Login_Test - --Clicking in the My account link in the home page
+14:03:59.799 [main] INFO  testCases.TC_002_Login_Test - Clicking on the Login_link

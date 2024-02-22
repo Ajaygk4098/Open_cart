@@ -7,6 +7,8 @@ E:\java_project\Open_cart_App_Framework\src\test\java\testBase\BaseClass.java
 E:\java_project\Open_cart_App_Framework\src\test\java\testCases\TC_001_Account_Registration_Test.java
 E:\java_project\Open_cart_App_Framework\src\test\java\testCases\TC_002_Login_Test.java
 E:\java_project\Open_cart_App_Framework\src\test\java\testCases\TC_003_LoginDDT.java
+E:\java_project\Open_cart_App_Framework\src\test\java\testCases\TC_004_Search_Product.java
+E:\java_project\Open_cart_App_Framework\src\test\java\testCases\TC_005_Search_Product_Invalid.java
 E:\java_project\Open_cart_App_Framework\src\test\java\utilities\DataProviders.java
 E:\java_project\Open_cart_App_Framework\src\test\java\utilities\Excel_Utils.java
 E:\java_project\Open_cart_App_Framework\src\test\java\utilities\ExtentReportManager.java

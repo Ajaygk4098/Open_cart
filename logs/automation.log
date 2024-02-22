@@ -1,15 +1,18 @@
-12:34:27.747 [main] INFO  testCases.TC_001_Account_Registration_Test - --Entering user Email--
-12:34:27.916 [main] INFO  testCases.TC_001_Account_Registration_Test - --Generating password and Entering password--
-12:34:28.344 [main] INFO  testCases.TC_001_Account_Registration_Test - --Setting the Agreement terms toggle to YES--
-12:34:29.235 [main] INFO  testCases.TC_001_Account_Registration_Test - --Clicking continue button after entering the user details--
-12:34:29.420 [main] INFO  testCases.TC_001_Account_Registration_Test - --Verifying the confirmation message after account is created--
-12:34:32.965 [main] INFO  testCases.TC_001_Account_Registration_Test - *************Account registration test case completed******************************
-12:34:54.590 [main] INFO  testCases.TC_002_Login_Test - ************* Starting Login test case******************************
-12:34:54.590 [main] DEBUG testCases.TC_002_Login_Test - ************ Application logs*****************************************************
-12:34:55.498 [main] INFO  testCases.TC_002_Login_Test - --Clicking in the My account link in the home page
-12:34:56.424 [main] INFO  testCases.TC_002_Login_Test - Clicking on the Login_link
-12:34:59.222 [main] INFO  testCases.TC_002_Login_Test - --Entering Email ID which is mentioned in the config.properties file--
-12:35:01.331 [main] INFO  testCases.TC_002_Login_Test - --Entering Password which is mentioned in the config.properties file--
-12:35:01.544 [main] INFO  testCases.TC_002_Login_Test - --Clicking on the login button--
-12:35:04.611 [main] INFO  testCases.TC_002_Login_Test - --Login successfull done--
-12:35:05.915 [main] INFO  testCases.TC_002_Login_Test - *************Login test case completed******************************
+14:04:01.262 [main] INFO  testCases.TC_002_Login_Test - --Entering Email ID which is mentioned in the config.properties file--
+14:04:02.065 [main] INFO  testCases.TC_002_Login_Test - --Entering Password which is mentioned in the config.properties file--
+14:04:02.193 [main] INFO  testCases.TC_002_Login_Test - --Clicking on the login button--
+14:04:04.426 [main] INFO  testCases.TC_002_Login_Test - --Login successfull done--
+14:04:04.426 [main] INFO  testCases.TC_002_Login_Test - *************Login test case completed******************************
+14:04:27.210 [main] INFO  testCases.TC_004_Search_Product - ************* Starting search product test case******************************
+14:04:27.355 [main] DEBUG testCases.TC_004_Search_Product - ************ Application logs*****************************************************
+14:04:27.358 [main] INFO  testCases.TC_004_Search_Product - --Clicking in the My account link in the home page
+14:04:27.472 [main] INFO  testCases.TC_004_Search_Product - Clicking on the Login_link
+14:04:32.131 [main] INFO  testCases.TC_004_Search_Product - --Adding the product name in the search box--
+14:04:32.226 [main] INFO  testCases.TC_004_Search_Product - --verifying if the item is displayed and matched with the product name entered in the config file
+14:05:02.213 [main] INFO  testCases.TC_005_Search_Product_Invalid - ************* Starting search for a non existing product test case******************************
+14:05:02.215 [main] INFO  testCases.TC_005_Search_Product_Invalid - --Clicking on My Account link to login to the application
+14:05:02.323 [main] INFO  testCases.TC_005_Search_Product_Invalid - Clicking on the Login_link
+14:05:06.484 [main] INFO  testCases.TC_005_Search_Product_Invalid - Entering the item name in the search box
+14:05:06.589 [main] INFO  testCases.TC_005_Search_Product_Invalid - searching for a product and checking if proper message is shown to the user
+14:05:21.062 [main] INFO  testCases.TC_005_Search_Product_Invalid - --Item we are searching for is not found--
+14:05:21.062 [main] INFO  testCases.TC_005_Search_Product_Invalid - *************Search product test case is completed******************************

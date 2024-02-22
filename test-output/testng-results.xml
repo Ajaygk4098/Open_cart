@@ -1,23 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2024-02-13T14:36:23 IST" name="Suite" finished-at="2024-02-13T14:37:52 IST" duration-ms="89132">
+  <suite started-at="2024-02-20T16:20:18 IST" name="Suite" finished-at="2024-02-20T16:20:58 IST" duration-ms="39815">
     <groups>
-      <group name="Master">
-        <method signature="TC_001_Account_Registration_Test.Verify_account_Registration()[pri:0, instance:testCases.TC_001_Account_Registration_Test@c730b35]" name="Verify_account_Registration" class="testCases.TC_001_Account_Registration_Test"/>
-        <method signature="TC_002_Login_Test.Login_Test()[pri:0, instance:testCases.TC_002_Login_Test@38425407]" name="Login_Test" class="testCases.TC_002_Login_Test"/>
-      </group> <!-- Master -->
-      <group name="Sanity">
-        <method signature="TC_002_Login_Test.Login_Test()[pri:0, instance:testCases.TC_002_Login_Test@38425407]" name="Login_Test" class="testCases.TC_002_Login_Test"/>
-      </group> <!-- Sanity -->
       <group name="Regression">
-        <method signature="TC_001_Account_Registration_Test.Verify_account_Registration()[pri:0, instance:testCases.TC_001_Account_Registration_Test@c730b35]" name="Verify_account_Registration" class="testCases.TC_001_Account_Registration_Test"/>
+        <method signature="TC_005_Search_Product_Invalid.search_Invalid_product()[pri:0, instance:testCases.TC_005_Search_Product_Invalid@36fc695d]" name="search_Invalid_product" class="testCases.TC_005_Search_Product_Invalid"/>
       </group> <!-- Regression -->
     </groups>
-    <test started-at="2024-02-13T14:36:23 IST" name="Test" finished-at="2024-02-13T14:37:52 IST" duration-ms="89132">
-      <class name="testCases.TC_002_Login_Test">
-        <test-method is-config="true" signature="setup(java.lang.String,java.lang.String)[pri:0, instance:testCases.TC_002_Login_Test@38425407]" started-at="2024-02-13T14:37:26 IST" name="setup" finished-at="2024-02-13T14:37:42 IST" duration-ms="16039" status="PASS">
+    <test started-at="2024-02-20T16:20:18 IST" name="Test" finished-at="2024-02-20T16:20:58 IST" duration-ms="39815">
+      <class name="testCases.TC_005_Search_Product_Invalid">
+        <test-method is-config="true" signature="setup(java.lang.String,java.lang.String)[pri:0, instance:testCases.TC_005_Search_Product_Invalid@36fc695d]" started-at="2024-02-20T16:20:19 IST" name="setup" finished-at="2024-02-20T16:20:37 IST" duration-ms="17617" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -33,41 +26,15 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method signature="Login_Test()[pri:0, instance:testCases.TC_002_Login_Test@38425407]" started-at="2024-02-13T14:37:42 IST" name="Login_Test" finished-at="2024-02-13T14:37:51 IST" duration-ms="8634" status="PASS">
+        <test-method signature="search_Invalid_product()[pri:0, instance:testCases.TC_005_Search_Product_Invalid@36fc695d]" started-at="2024-02-20T16:20:37 IST" name="search_Invalid_product" finished-at="2024-02-20T16:20:58 IST" duration-ms="20894" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- Login_Test -->
-        <test-method is-config="true" signature="teardown()[pri:0, instance:testCases.TC_002_Login_Test@38425407]" started-at="2024-02-13T14:37:51 IST" name="teardown" finished-at="2024-02-13T14:37:52 IST" duration-ms="801" status="PASS">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- teardown -->
-      </class> <!-- testCases.TC_002_Login_Test -->
-      <class name="testCases.TC_001_Account_Registration_Test">
-        <test-method is-config="true" signature="setup(java.lang.String,java.lang.String)[pri:0, instance:testCases.TC_001_Account_Registration_Test@c730b35]" started-at="2024-02-13T14:36:23 IST" name="setup" finished-at="2024-02-13T14:37:10 IST" duration-ms="47201" status="PASS">
-          <params>
-            <param index="0">
-              <value>
-                <![CDATA[Windows]]>
-              </value>
-            </param>
-            <param index="1">
-              <value>
-                <![CDATA[chrome]]>
-              </value>
-            </param>
-          </params>
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- setup -->
-        <test-method signature="Verify_account_Registration()[pri:0, instance:testCases.TC_001_Account_Registration_Test@c730b35]" started-at="2024-02-13T14:37:10 IST" name="Verify_account_Registration" finished-at="2024-02-13T14:37:24 IST" duration-ms="13786" status="PASS">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- Verify_account_Registration -->
-        <test-method is-config="true" signature="teardown()[pri:0, instance:testCases.TC_001_Account_Registration_Test@c730b35]" started-at="2024-02-13T14:37:25 IST" name="teardown" finished-at="2024-02-13T14:37:26 IST" duration-ms="1607" status="PASS">
+        </test-method> <!-- search_Invalid_product -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:testCases.TC_005_Search_Product_Invalid@36fc695d]" started-at="2024-02-20T16:20:58 IST" name="teardown" finished-at="2024-02-20T16:20:58 IST" duration-ms="737" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- teardown -->
-      </class> <!-- testCases.TC_001_Account_Registration_Test -->
+      </class> <!-- testCases.TC_005_Search_Product_Invalid -->
     </test> <!-- Test -->
   </suite> <!-- Suite -->
 </testng-results>
